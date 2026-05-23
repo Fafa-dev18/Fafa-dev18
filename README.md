@@ -30,11 +30,16 @@ Sou um entusiasta da tecnologia, apaixonado por Linux e jogos, que encontrou na 
 
 ---
 
-### 📊 Minhas Estatísticas do GitHub
+<div align="center">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDUyc29tbjlhcGs1aW54eG45cDVzdW1veGNpMHVtdmJwaTE2c2xmcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZfcCdlkqRVCshMam1J/giphy.gif" width="65%" alt="Gif" />
+</div>
+
+---
+
+### 📊 Painel de Evolução
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Fafa-dev18&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fafa-dev18&layout=compact&langs_count=7&theme=dracula"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Fafa-dev18&theme=tokyonight&hide_border=true" alt="Streak do Luiz" />
 </div>
 
 ---
