@@ -33,9 +33,8 @@ Sou um entusiasta da tecnologia, apaixonado por Linux e jogos, que encontrou na 
 ### 📊 Minhas Estatísticas do GitHub
 
 <div align="center">
-  <!-- IMPORTANTE: Se o seu user do GitHub não for 'luizfafa', troque o nome abaixo nas URLs -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luizfafa&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizfafa&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=luizfafa&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=luizfafa&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
 ---
