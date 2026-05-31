@@ -37,24 +37,18 @@ Sou um entusiasta da tecnologia, usuário de Linux e gamer que encontrou na prog
 
 ---
 
-<div align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDUyc29tbjlhcGs1aW54eG45cDVzdW1veGNpMHVtdmJwaTE2c2xmcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZfcCdlkqRVCshMam1J/giphy.gif" width="65%" alt="Coding Git GIF" />
-</div>
-
----
-
-### 💡 Frase de Dev do Dia
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Frase sobre programação" />
-</div>
-
----
-
 ### 📊 Minhas Estatísticas do GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Fafa-dev18&theme=tokyonight&show_icons=true&hide_border=true&locale=pt-br" alt="Estatísticas do GitHub" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Fafa-dev18&theme=tokyonight&show_icons=true&hide_border=true&locale=pt-br" alt="Estatísticas do GitHub" />
+</div>
+
+---
+
+### 🐍 Jogo da Cobrinha (Contribuições)
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="Snake Game" width="100%" max-width="800px" />
 </div>
 
 ---
