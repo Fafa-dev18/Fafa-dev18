@@ -51,10 +51,10 @@ Sou um entusiasta da tecnologia, usuário de Linux e gamer que encontrou na prog
 
 ---
 
-### 🛠️ Linguagens Mais Utilizadas
+### 📊 Minhas Estatísticas do GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fafa-dev18&layout=compact&theme=tokyonight&hide_border=true&locale=pt-br" alt="Linguagens mais usadas pelo Luiz" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Fafa-dev18&theme=tokyonight&show_icons=true&hide_border=true&locale=pt-br" alt="Estatísticas do GitHub" />
 </div>
 
 ---
