@@ -43,22 +43,6 @@ Transformando a paixão por tecnologia e o raciocínio analítico em soluções 
 
 ---
 
-### 📊 Minhas Estatísticas do GitHub
-
-<div align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Fafa-dev18&theme=tokyonight&show_icons=true&hide_border=true&locale=pt-br" alt="Estatísticas do GitHub" />
-</div>
-
----
-
-### 🐍 Jogo da Cobrinha (Contribuições)
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="Snake Game" width="100%" max-width="800px" />
-</div>
-
----
-
 ### 📫 Vamos trocar uma ideia? Conecte-se comigo!
 
 <p align="left">
